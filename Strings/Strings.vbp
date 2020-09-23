@@ -1,0 +1,36 @@
+Type=Exe
+Class=cPerformanceTimer; cPerformanceTimer.cls
+Module=mStrings; mStrings.bas
+Startup="Sub Main"
+HelpFile=""
+Title="Replace"
+ExeName32="Replace.exe"
+Path32="..\Documents and Settings\Luke.BEMROSE\Desktop"
+Command32=""
+Name="prjReplace"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="Bemrose Consulting"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=-1
+OverflowCheck=-1
+FlPointCheck=0
+FDIVCheck=-1
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
